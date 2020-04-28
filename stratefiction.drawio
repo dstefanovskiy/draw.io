@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-28T06:30:44.001Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="mM50OrY8y7-j4yWy4AdQ" version="13.0.1" type="github">
+<mxfile host="www.draw.io" modified="2020-04-28T06:36:05.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="hWaDft336gTcU7JILQ5C" version="13.0.1" type="github" pages="2">
   <diagram id="IgjfitnS_HSUmSVjakEV" name="Палитра">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,29 @@
         </mxCell>
         <mxCell id="NI4nMwOB5r0v-6-74_65-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8DBDCE;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oRECL-k7W-SAQrQGuNqf" name="Page-2">
+    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wJr1iZkZPhRblYZZaXzh-0" />
+        <mxCell id="wJr1iZkZPhRblYZZaXzh-1" parent="wJr1iZkZPhRblYZZaXzh-0" />
+        <mxCell id="a2kvwCbru9pQUtftNys6-0" value="&amp;nbsp;Длительные, потенциально необратимые причинно-следственные связи и, следовательно, горизонты планирования, которые превосходят срок полномочий и даже срок жизни большинства нынешних лиц, принимающих решения, и заинтересованных сторон;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;" vertex="1" parent="wJr1iZkZPhRblYZZaXzh-1">
+          <mxGeometry x="520" y="40" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a2kvwCbru9pQUtftNys6-1" value="&amp;nbsp;Постоянные неопределенности в отношении причин, воздействий, взаимосвязей и нелинейности;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F07277;" vertex="1" parent="wJr1iZkZPhRblYZZaXzh-1">
+          <mxGeometry x="40" y="40" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3hDzleuz_chHEGsA8X6d-0" value="&lt;div&gt;Сложные взаимосвязи между различными областями политики в рамках и за пределами климатической политики;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;" vertex="1" parent="wJr1iZkZPhRblYZZaXzh-1">
+          <mxGeometry x="520" y="200" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3hDzleuz_chHEGsA8X6d-1" value="&lt;div&gt;Глобальная взаимозависимость и взаимозаменяемость вариантов реагирования (для каждой цели глобальной политики существует неограниченное количество возможных комбинаций местных ответных мер в разных странах&lt;/div&gt;&lt;div&gt;и временные рамки с равной степенью эффективности);&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F07277;" vertex="1" parent="wJr1iZkZPhRblYZZaXzh-1">
+          <mxGeometry x="40" y="200" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3hDzleuz_chHEGsA8X6d-2" value="&lt;span&gt;Возможно, разрушительное воздействие изменения климата, к которому современные системы управления могут быть не полностью подготовлены.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F07277;" vertex="1" parent="wJr1iZkZPhRblYZZaXzh-1">
+          <mxGeometry x="40" y="380" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
